@@ -1,9 +1,11 @@
-- [😾 Sylvester](#-sylvester)
-  - [How to Install](#how-to-install)
-  - [Features](#features)
-  - [TODO](#todo)
+## Index
+- [Index](#index)
+- [Description](#description)
+- [How to Install](#how-to-install)
+- [Features](#features)
+- [TODO](#todo)
 
-# 😾 Sylvester
+## Description
 
 A Chrome extension that hides anxiety driving Twitter features. These changes are needed for my mental wellbeing. If you think that the changes are unnecessary. Feel free to not use it.
 
