@@ -15,11 +15,12 @@ A Chrome extension that hides anxiety driving Twitter features.
 ## How to Install
 
 ## Features
-### Hide "Trending" Window
-### Hide "Like" Count
-### Hide "Explore" Menu Button
-### Hide "Who to Follow" Window
-### Hide the Number of Followers
-### Hide Social Context Features (X retweeted, Y liked, etc.)
-### Hide Fact-Checks, Dispute Warnings, etc. (Soon)
+😾 Sylvester helps you hide the following Twitter features:
+ Hide "Trending" Window
+ Hide "Like" Count
+ Hide "Explore" Menu Button
+ Hide "Who to Follow" Window
+ Hide the Number of Followers
+ Hide Social Context Features (X retweeted, Y liked, etc.)
+ Hide Fact-Checks, Dispute Warnings, etc. (Soon)
 
