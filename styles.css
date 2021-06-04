@@ -1,0 +1,10 @@
+/* Hide Trending Now Window */
+[aria-label="Timeline: Trending now"] {
+  content: attr(aria-label);
+  display: none !important;
+}
+/* Hide "Explore" Menu Button */
+[aria-label="Search and explore"] {
+  content: attr(aria-label);
+  display: none !important;
+}

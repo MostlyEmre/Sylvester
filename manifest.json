@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+
+  "name": "Sylvester",
+  "version": "0.1.0",
+  "description": "😾 A Chrome extension that automatically hides anxiety driving Twitter features.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://*.twitter.com/*", "http://*.twitter.com/*"]
+  }],
+
+  "icons": {
+    "128": "icon128.png"
+  }
+}
