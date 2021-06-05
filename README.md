@@ -7,7 +7,7 @@
 
 ## Description
 
-A Chrome extension that hides anxiety driving Twitter features. These changes are needed for my mental wellbeing. If you think that the changes are unnecessary. Feel free to not use it.
+A Chrome extension that hides anxiety driving Twitter features. These changes are needed for my mental wellbeing. If you think that the changes are unnecessary. Feel free to not use the extension.
 
 ## How to Install
 
@@ -24,9 +24,6 @@ A Chrome extension that hides anxiety driving Twitter features. These changes ar
   - "Britney Spears Retweeted"
   - "No Doubt Liked"
   - "Backstreet Boys, Savage Garden and more follows"
-- Hide Third Party Judgements (Soon)
-  - "This tweet is disputed"
-  - "This tweet is COVID-19 related. Learn more..."
 
 ## TODO
 
@@ -35,4 +32,5 @@ Feel free to contribute, open issues, etc.
 - [ ] Hide Fact-Checks, Dispute Warnings, etc.
 - [ ] Provide the extension features as options.
 - [ ] Hide "Topics to Follow"
+- [ ] Find a way to hide social context with CSS. (I don't want to hide retweets necessarily, with JS level styling, I can style whichever element I want, however this is not ideal, I would love to hide the elements with CSS (!important). Because CSS hides elements quickly and automatically without any heavyduty actions.)
 
