@@ -21,9 +21,9 @@ A Chrome extension that hides anxiety driving Twitter features. These changes ar
 - Hide "Who to Follow" Window
 - Hide the Number of Followers
 - Hide Social Context Features
-  - "Britney Spears Retweeted"
-  - "No Doubt Liked"
-  - "Backstreet Boys, Savage Garden and more follows"
+  - "Britney Spears retweeted"
+  - "No Doubt liked"
+  - "Backstreet Boys, Savage Garden and more follow"
 
 ## TODO
 
@@ -32,5 +32,5 @@ Feel free to contribute, open issues, etc.
 - [ ] Hide Fact-Checks, Dispute Warnings, etc.
 - [ ] Provide the extension features as options.
 - [ ] Hide "Topics to Follow"
-- [ ] Find a way to hide social context with CSS. (I don't want to hide retweets necessarily, with JS level styling, I can style whichever element I want, however this is not ideal, I would love to hide the elements with CSS (!important). Because CSS hides elements quickly and automatically without any heavyduty actions.)
+- [ ] Find a way to hide social context with CSS. (I don't want to hide retweets necessarily. With JS level styling I can style whichever element I want, however this is not ideal, I would love to hide the elements with CSS (!important). Because CSS hides elements quickly and automatically without any heavyduty actions.)
 
