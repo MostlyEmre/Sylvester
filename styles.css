@@ -15,9 +15,37 @@
   display: none !important;
 }
 
+[aria-label$="Liked"] > div > div:nth-child(2) {
+  content: attr(aria-label);
+  display: none !important;
+}
+
+[aria-label$="Retweeted"] > div > div:nth-child(2) {
+  content: attr(aria-label);
+  display: none !important;
+}
+
+/* Hide "Likes" Count on Detail Page */
+[href$="/likes"] > div:nth-child(1) {
+  content: attr(href);
+  display: none !important;
+}
+
 /* Hide "Retweet" Count */
 [data-testid="retweet"] > div > div:nth-child(2) {
   content: attr(data-testid);
+  display: none !important;
+}
+
+/* Hide "Retweets" Count on Detail Page */
+[href$="/retweets"] > div:nth-child(1) {
+  content: attr(href);
+  display: none !important;
+}
+
+/* Hide "Quote Retweets" Count on Detail Page */
+[href$="/retweets/with_comments"] > div:nth-child(1) {
+  content: attr(href);
   display: none !important;
 }
 
