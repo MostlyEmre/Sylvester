@@ -12,6 +12,12 @@ A Chrome extension that hides anxiety driving Twitter features. These changes ar
 
 ## How to Install
 
+- Download the `Sylvester.zip` file from the Releases section.
+- Unpack the zip.
+- Go to [chrome://extensions](chrome://extensions)
+- Activate `Developer Mode`.
+- Drag and drop the `Sylvester` folder into the [chrome://extensions](chrome://extensions).
+
 ## Features
 
 😾 Sylvester helps you hide the following Twitter features:
